@@ -1,4 +1,4 @@
 gbs.monospaced
 ==============
 
-Browser QA matrix
+Opinionated Browser QA matrix.
