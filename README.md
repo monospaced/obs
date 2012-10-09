@@ -1,1 +1,1 @@
-Opinionated Browser QA matrix.
+Monospaced browser QA matrix.
