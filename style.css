@@ -383,11 +383,6 @@ body {
   padding: 24px 0;
   text-shadow: 0 1px 0 #fff;
   font: normal 16px/1.5 cambria, georgia, serif;
-  background: -webkit-linear-gradient(left, #f5f4f1, #fff 50%, #f5f4f1);
-  background:    -moz-linear-gradient(left, #f5f4f1, #fff 50%, #f5f4f1);
-  background:     -ms-linear-gradient(left, #f5f4f1, #fff 50%, #f5f4f1);
-  background:      -o-linear-gradient(left, #f5f4f1, #fff 50%, #f5f4f1);
-  background:         linear-gradient(left, #f5f4f1, #fff 50%, #f5f4f1);
 }
 
 h1 {
