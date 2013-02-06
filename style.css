@@ -467,3 +467,9 @@ td:empty {
 .extras {
   background: #fdf;
 }
+
+.muted {
+  opacity: 0.5;
+  font-style: italic;
+}
+
